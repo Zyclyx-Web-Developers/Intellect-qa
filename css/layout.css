@@ -622,8 +622,7 @@ background-color:#f3f7fa;
 
 .footer .f-title{  
   /* color: #ff4500; */
-  color: #fafafa;
-  font-weight: 600;
+  color: #ff004c;
   font-size: 1rem;
   margin-bottom: 5px;   
 }
@@ -633,8 +632,7 @@ background-color:#f3f7fa;
 }
 
 .footer a,.footer p{  
- font-size: 0.9rem;
-  font-weight: 600;   
+ font-size: 0.9rem; 
   margin-bottom: 1px;
   color:#f4f4f4;
   opacity: 0.8;

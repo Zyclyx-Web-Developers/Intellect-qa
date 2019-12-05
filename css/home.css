@@ -683,12 +683,16 @@ font-weight: 400 !important;
   align-items: center;
   font-weight: 800;
 }
+
+.stats-counter .title-2{
+  font-size: 30px !important;
+}
 /* .stats-counter h3{
   color: #6600ff;
- }
+ }*/
 .stats-counter .title-3{
- color: #7e27ff;
-} */
+ color: #1e6da2;
+} 
 /* 
 ==== CLIENT LOGOS ====
 */
