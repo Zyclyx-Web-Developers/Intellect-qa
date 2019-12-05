@@ -713,7 +713,7 @@ font-weight: 400 !important;
   width: 100%;   
 }
 .our-clients .owl-item.center .client{
-  border: 1px solid rgba(0, 123, 255,1);
+  border: 1px solid #8D1B3D;
   transition: border 1s linear;
   box-shadow: 0 0.125rem 0.3rem -0.0625rem rgba(0, 0, 0, 0.03),
     0 0.275rem 0.75rem -0.0625rem rgba(0, 0, 0, 0.06) !important;
