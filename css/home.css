@@ -73,7 +73,7 @@ HOME - CAROUSEL
 #homeCarousel  .carousel-item{  
   /* background-color: rgba(0, 123, 255,0.6);  */
   text-align: left;   
-  background-color: #4eacff;  
+  background-color: rgba(141, 27, 61,.4);  
 }
 
 #homeCarousel .custom-indicator{
