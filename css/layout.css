@@ -50,7 +50,7 @@ font-family: 'Source Sans Pro', sans-serif;
   --font-10: 'Source Sans Pro', sans-serif;
 
   --font:'custom-font', sans-serif;
-  --color:#ff4500;
+  --color:#8D1B3D;
 
   --black: #444655;
   --blue: #007bff;
@@ -147,12 +147,12 @@ body {
 
 .animate-link {
   position: relative;
-  color: #3ba3ff;
+  color: #8D1B3D;
   text-decoration: none;
 }
 
 .animate-link:hover {
-  color:#1490ff;
+  color:#8D1B3D;
   text-decoration: none;
 }
 .animate-link:before {
@@ -162,7 +162,7 @@ body {
   height: 1px;
   bottom: 5px;
   left: 0;
-  background-color: #1490ff;
+  background-color: #8D1B3D;
   visibility: hidden;
   -webkit-transform: scaleX(0);
   transform: scaleX(0);
@@ -400,7 +400,7 @@ h6,
     border-radius: 0 !important;   
     box-shadow: 0 8px 6px -6px #cccccc;
     background-color: #E9EFFF;
-    border-bottom: 1px solid #007bff !important;
+    border-bottom: 1px solid #8D1B3D !important;
     
   }
   .dropdown-menu .dropdown-item{     
@@ -439,7 +439,7 @@ h6,
  
   /* service dropdown menu category title */
    .dropdown-title{   
-    color:rgba(0, 123, 255,0.8);
+    color:#8D1B3D;
     font-weight: 600; 
     font-size: 16px;
     margin-bottom: 0;     
@@ -511,13 +511,13 @@ h6,
   margin-right: 20px;
   display: flex;     
   align-items: center;
-  color: #ff4500;
+  color: #8D1B3D;
 }
 
 .service-highlight{  
 height: 4px;
 width: 30px;
-background-color: #ff4500; 
+background-color: #8D1B3D; 
 margin-right: 10px; 
 }
 .capabilities{
