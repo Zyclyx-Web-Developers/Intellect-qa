@@ -717,7 +717,7 @@ font-weight: 400 !important;
   width: 100%;   
 }
 .our-clients .owl-item.center .client{
-  border: 1px solid #007bff;
+  border: 1px solid #8D1B3D;
   transition: border 1s linear;
   box-shadow: 0 0.125rem 0.3rem -0.0625rem rgba(0, 0, 0, 0.03),
     0 0.275rem 0.75rem -0.0625rem rgba(0, 0, 0, 0.06) !important;
@@ -736,15 +736,11 @@ font-weight: 400 !important;
 .contact-banner a{
   padding: 0.6rem 2rem;
   margin-top: 10px;
-  border-color: #007bff;
-  color: #007bff;
   font-weight: 700;
   font-size: 1.2rem;
 }
 .contact-banner a:hover{
-background-color:#007bff;
 color: #ffffff;
-border-color: #007bff;
 }
 
 @media (max-width: 575.98px) { 
