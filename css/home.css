@@ -683,12 +683,16 @@ font-weight: 400 !important;
   align-items: center;
   font-weight: 800;
 }
+
+.stats-counter .title-2{
+  font-size: 30px !important;
+}
 /* .stats-counter h3{
   color: #6600ff;
- }
+ }*/
 .stats-counter .title-3{
- color: #7e27ff;
-} */
+ color: #1e6da2;
+} 
 /* 
 ==== CLIENT LOGOS ====
 */
@@ -713,7 +717,7 @@ font-weight: 400 !important;
   width: 100%;   
 }
 .our-clients .owl-item.center .client{
-  border: 1px solid rgba(0, 123, 255,1);
+  border: 1px solid #007bff;
   transition: border 1s linear;
   box-shadow: 0 0.125rem 0.3rem -0.0625rem rgba(0, 0, 0, 0.03),
     0 0.275rem 0.75rem -0.0625rem rgba(0, 0, 0, 0.06) !important;
