@@ -112,6 +112,15 @@ font-family: 'Source Sans Pro', sans-serif;
   background:#570b22;
   border-color:#8d1b3d !important;
 }
+.btn-outline-primary{
+  background:#8d1b3d;
+  border-color:#8d1b3d !important;
+  color: #fff;
+}
+.btn-outline-primary:hover{
+  background:#8d1b3d;
+  border-color:#8d1b3d !important;
+}
 /* box-shadow: 0 25px 20px -20px rgba(0, 0, 0, 0.3), 0 0 15px rgba(0, 0, 0, 0.06); */
 
 /* 
