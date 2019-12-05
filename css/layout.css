@@ -50,7 +50,7 @@ font-family: 'Source Sans Pro', sans-serif;
   --font-10: 'Source Sans Pro', sans-serif;
 
   --font:'custom-font', sans-serif;
-  --color:#ff4500;
+  --color:#8D1B3D;
 
   --black: #444655;
   --blue: #007bff;
@@ -154,12 +154,12 @@ body {
 
 .animate-link {
   position: relative;
-  color: #3ba3ff;
+  color: #8D1B3D;
   text-decoration: none;
 }
 
 .animate-link:hover {
-  color:#1490ff;
+  color:#8D1B3D;
   text-decoration: none;
 }
 .animate-link:before {
@@ -169,7 +169,7 @@ body {
   height: 1px;
   bottom: 5px;
   left: 0;
-  background-color: #1490ff;
+  background-color: #8D1B3D;
   visibility: hidden;
   -webkit-transform: scaleX(0);
   transform: scaleX(0);
@@ -412,8 +412,8 @@ color: #161616;
     padding-top: 10px;   
     border-radius: 0 !important;   
     box-shadow: 0 8px 6px -6px #cccccc;
-    background-color: #E9EFFF;
-    border-bottom: 1px solid #007bff !important;    
+    background-color: #E9EFFF; 
+    border-bottom: 1px solid #8D1B3D !important;
   }
   .dropdown-menu .dropdown-item{     
     font-weight: 500;   
@@ -451,7 +451,7 @@ color: #161616;
  
   /* service dropdown menu category title */
    .dropdown-title{   
-    color:rgba(0, 123, 255,0.8);
+    color:#8D1B3D;
     font-weight: 600; 
     font-size: 16px;
     margin-bottom: 0;     
@@ -523,13 +523,13 @@ color: #161616;
   margin-right: 20px;
   display: flex;     
   align-items: center;
-  color: #ff4500;
+  color: #8D1B3D;
 }
 
 .service-highlight{  
 height: 4px;
 width: 30px;
-background-color: #ff4500; 
+background-color: #8D1B3D; 
 margin-right: 10px; 
 }
 .capabilities{
@@ -846,12 +846,12 @@ margin: 2px auto !important;
 }
 .chat-bot .close:hover{
   color: rgb(255, 255, 255);
-  background: red;
+  background: #8d1b3d;
   opacity: 1;
 }
 
 .chat-bot .input-group-text {
-  background-color: #161616;
+  background-color: #8d1b3d;
   border: none;
   outline: none;
   border-radius: 0px;
@@ -876,8 +876,8 @@ margin: 2px auto !important;
 }
 
  .bot {
-  border: 1px solid #2196F3;
-  background: #2196F3;
+  border: 1px solid #8d1b3d;
+  background: #8d1b3d;
   color: #fff;
   font-size: 25px;
   border-radius: 50%;
@@ -903,7 +903,7 @@ margin: 2px auto !important;
 }
 
 .chat-bot #botReplay{
-  background: #2196F3;
+  background: #8d1b3d;
   color: #ffffff;
   box-shadow: 0px 1px 1px 0px #ccc;
   margin: 5px;
@@ -915,7 +915,7 @@ margin: 2px auto !important;
 }
 .chat-bot #userReplay{
   background: #fff;
-  color: #535a5f;
+  color: #1e6da2;
   box-shadow: 0px 1px 1px 0px #ccc;
   font-weight: 500;
   padding: 10px;
