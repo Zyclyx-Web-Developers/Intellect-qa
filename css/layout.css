@@ -97,7 +97,7 @@ font-family: 'Source Sans Pro', sans-serif;
   box-shadow: 0 0.5rem 1.125rem -0.5rem #007bff;
 }
 .btn-shadow-2:hover{
-  box-shadow: 0 0.5rem 1.125rem -0.5rem #007bff;
+  box-shadow: 0 0.5rem 1.125rem -0.5rem #8d1b3d;
   transform: translate(0,-2px);
   -webkit-transform: translate(0,-2px);
   -moz-transform: translate(0,-2px);
